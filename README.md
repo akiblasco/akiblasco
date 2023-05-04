@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IkRyujin
+- 👋 Hi, I’m Aki @IkRyujin
 - 👀 I’m interested in Machine learning, Automation and A.I.
 - 🌱 I’m currently in college and learning code on the side
 - 💞️ I’m looking to collaborate on any basic projects that will help me improve my skills
