@@ -1,8 +1,7 @@
-### 👋 Hello there
-I am Aki. I studied the Interdisciplinary Studies major at the University of British Columbia, where I specialiced in Computer Science and Japan Studies. I am passionate about Artificial Intelligence, Machine Learning, Software Engineering, and related topics. I consider myself an entrepreneur and am working on my startup company where I will develop artificial intelligence-related technologies and software, stay tuned!
+### Hey, I’m Aki.
 
-Feel free to take a look at my personal website, where you can get to know me a bit better, and where I have some of my projects: 
+I’m a Machine Learning & Software engineer based in Tokyo.
 
-inakiblasco.com
+I build and explore across software, machine learning, and quantitative research. I’m interested in understanding difficult systems, making useful things, and continually expanding the range of problems I can work on.
 
-
+This GitHub is where I keep the things I build outside of work.
