@@ -15,9 +15,9 @@ This GitHub is where I keep the things I build outside of work.
   &nbsp;
   <img src="https://cdn.simpleicons.org/huggingface" height="42" alt="Hugging Face" />
   &nbsp;
-  <img src="./codex.svg" height="58" alt="Codex" title="Codex" />
+  <img src="./codex.svg" height="42" alt="Codex" title="Codex" />
   &nbsp;
-  <img src="./claude-code.svg" height="58" alt="Claude Code" title="Claude Code" />
+  <img src="./claude-code.svg" height="42" alt="Claude Code" title="Claude Code" />
 </p>
 
 **Engineering**
