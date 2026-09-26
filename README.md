@@ -13,9 +13,9 @@ This GitHub is where I keep the things I build outside of work.
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" height="42" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/openai" height="42" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/openai/white" height="42" alt="OpenAI" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic" height="42" alt="Anthropic" />
+  <img src="https://cdn.simpleicons.org/claude" height="42" alt="Claude" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/huggingface" height="42" alt="Hugging Face" />
 </p>
@@ -23,11 +23,21 @@ This GitHub is where I keep the things I build outside of work.
 **Engineering**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,docker,postgres,azure,git,github" height="42" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,docker,postgres,mongodb,azure,git" height="42" />
 </p>
 
-**Creative & Other**
+**Research**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,latex" height="42" />
+  <img src="https://skillicons.dev/icons?i=latex" height="42" />
 </p>
+
+**Creative**
+
+<p>
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="42" alt="YouTube" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" height="42" />
+</p>
+
+Photography · Filmmaking · Visual Design
