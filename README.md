@@ -11,11 +11,11 @@ This GitHub is where I keep the things I build outside of work.
 **AI & Machine Learning**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" height="42" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" height="42" alt="Python, PyTorch, scikit-learn" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/openai/white" height="42" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="42" alt="OpenAI" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/claude" height="42" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="42" alt="Claude" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/huggingface" height="42" alt="Hugging Face" />
 </p>
@@ -23,13 +23,19 @@ This GitHub is where I keep the things I build outside of work.
 **Engineering**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,docker,postgres,mongodb,azure,git" height="42" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,docker,postgres,mongodb,azure,git" height="42" alt="TypeScript, JavaScript, React, Docker, PostgreSQL, MongoDB, Azure, Git" />
 </p>
 
 **Research**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=latex" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="42" alt="NumPy" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="42" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="42" alt="Jupyter" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=latex" height="42" alt="LaTeX" />
 </p>
 
 **Creative**
@@ -37,7 +43,7 @@ This GitHub is where I keep the things I build outside of work.
 <p>
   <img src="https://cdn.simpleicons.org/youtube/FF0000" height="42" alt="YouTube" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" height="42" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" height="42" alt="Photoshop, Illustrator, Premiere Pro, After Effects" />
 </p>
 
 Photography · Filmmaking · Visual Design
