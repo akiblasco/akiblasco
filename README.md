@@ -26,7 +26,7 @@ This GitHub is where I keep the things I build outside of work.
   <img src="https://skillicons.dev/icons?i=ts,js,react,docker,postgres,mongodb,azure,git" height="42" alt="TypeScript, JavaScript, React, Docker, PostgreSQL, MongoDB, Azure, Git" />
 </p>
 
-**Research**
+**Research & Data**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="42" alt="NumPy" />
@@ -47,3 +47,7 @@ This GitHub is where I keep the things I build outside of work.
 </p>
 
 Photography · Filmmaking · Visual Design
+
+### Languages
+
+**Spanish** · **German** · **English** · **Japanese**
