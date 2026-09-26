@@ -13,11 +13,11 @@ This GitHub is where I keep the things I build outside of work.
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" height="42" alt="Python, PyTorch, scikit-learn" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="42" alt="OpenAI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="42" alt="Claude" />
-  &nbsp;
   <img src="https://cdn.simpleicons.org/huggingface" height="42" alt="Hugging Face" />
+  &nbsp;
+  <img src="./assets/codex.svg" height="42" alt="Codex" title="Codex" />
+  &nbsp;
+  <img src="./assets/claude-code.svg" height="42" alt="Claude Code" title="Claude Code" />
 </p>
 
 **Engineering**
